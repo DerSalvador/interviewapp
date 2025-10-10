@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../dersalvador/freqtrading/freqtrade"
+		},
+		{
+			"path": "../../dersalvador/freqtrading/freqtrade-helm-chart"
+		}
+	],
+	"settings": {}
+}
