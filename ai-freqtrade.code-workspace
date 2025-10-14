@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../../dersalvador/freqtrading/freqtrade-helm-chart"
+		},
+		{
+			"path": "../whatsapp-mcp"
 		}
 	],
 	"settings": {}
